@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    margin: 0;
+    font-family: Verdana, sans-serif;
+}
+.intro{
+    height: 900px;
+}
+.middle{
+    height: 700px;
+}
+.coming-soon{
+    margin-top: 50px;
+    height: 300px;
+}
+.some-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+.link-download{
+    color: aquamarine;
+    font-size: 16px;
+}
+h1{
+    font-weight: normal;
+    font-size: 50px;
+}
+.middle h1{
+    font-size: 42px;
+}
+h3{
+    font-size: 21px;
+    font-weight: 300;
+    color: gray;
+}
+.copyright h3{
+    float: right;
+    margin-right: 10px;
+}
